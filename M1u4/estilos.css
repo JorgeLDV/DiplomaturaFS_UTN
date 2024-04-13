@@ -1,5 +1,51 @@
 h1{
-    background-color: deeppink;
-    color: aquamarine;
+    background-color: cornflowerblue;
+    color: crimson;
+    text-align: center;
+    font-style: italic;
+
+}
+
+h2{
+    color: darkorchid;
+    font-weight: bold;
+
+}
+
+h3{
+    color: coral;
+    font-style: italic;
+}
+
+h4{
+    color: crimson;
+    font-style: italic;
+    font-weight: bold;
+}
+
+p{
+    color: darkgreen;
     text-align: justify;
+    font-weight: bold;
+}
+
+.destacados{
+    color: darkorchid;
+    font-size: 20px;
+    font-style: italic;
+}
+
+.especiales{
+    color: brown;
+    font-size: 20px;
+    font-style: italic;
+}
+
+#caja{
+    background-color: cadetblue;
+    width: 400px;
+    height: 280px;
+    padding: 20px;
+    border: 10px solid black;
+    box-sizing: border-box;
 }
