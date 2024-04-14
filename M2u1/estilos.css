@@ -1,0 +1,101 @@
+h1{
+    background-color: cornflowerblue;
+    color: crimson;
+    text-align: center;
+    font-style: italic;
+    font-family: "Sedan", serif;
+
+}
+
+h2{
+    color: darkorchid;
+    font-weight: bold;
+    font-family: "Sedan", serif;
+
+}
+
+h3{
+    color: darkgreen;
+    font-style: italic;
+    font-family: "Sedan", serif;
+}
+
+h4{
+    color: crimson;
+    font-style: italic;
+    font-weight: bold;
+    font-family: "Sedan", serif;
+}
+
+ol{
+    color: whitesmoke;
+    font-weight: bold;
+    font-family: "Josefin Sans", sans-serif;
+
+}
+
+ul{
+    color: whitesmoke;
+    font-weight: bold;
+    font-family: "Josefin Sans", sans-serif;
+}
+
+p{
+    color: darkgreen;
+    text-align: justify;
+    font-family: "Josefin Sans", sans-serif;
+}
+
+.destacados{
+    color: darkorchid;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.especiales{
+    color: brown;
+    font-size: 20px;
+    font-style: italic;
+}
+
+#cajauno{
+    background-color: cadetblue;
+    width: 400px;
+    height: 280px;
+    padding: 20px;
+    border: 10px solid black;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
+#cajados{
+    width: 400px;
+    height: 230px;
+    padding: 20px;
+    border: 10px solid black;
+    box-sizing: border-box;
+    background-image: linear-gradient(to bottom, #373705, #5c5709, #87780b, #b69b0e, #ebbd12);
+    border-radius: 10px;
+}
+
+#cajatres{
+    font-style: italic;
+    text-align: center;
+    color: whitesmoke;
+    width: 430px;
+    height: 80px;
+    padding: 10px;
+    border: 5px solid orangered;
+    box-sizing: border-box;
+    background-image: linear-gradient(to top, #370537, #5f0b5c, #8a1083, #b913ac, #eb12d5);
+    box-shadow: 0px 0px 5px 5px violet;
+    border-radius: 10px;
+}
+
+.texto{
+    background-color: rgb(102, 205, 142);
+    column-count: 3;
+    column-gap: 25px;
+    column-rule: 5px solid red;
+}
